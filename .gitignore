@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Arquivos compilados do Java
+*.class
+bin/
+out/
+target/
+
+# OS / Sistema
+.DS_Store
+Thumbs.db
