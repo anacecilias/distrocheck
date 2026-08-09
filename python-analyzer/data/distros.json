@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Ubuntu 24.04 LTS (Desktop)",
+    "sha256": "35a82350838d172a3ab8d23a1a9e34a36f54c935d21b711e5a32a632a65d562b",
+    "min_ram_gb": 4.0,
+    "min_cores": 2,
+    "min_storage_gb": 25.0,
+    "arch": "x86_64"
+  },
+  {
+    "name": "Linux Mint 21.3 (Cinnamon)",
+    "sha256": "4b5b7cf4f48b8b0e8b23c28078028f8f23788a101b0a88094943f05f88421b4b",
+    "min_ram_gb": 2.0,
+    "min_cores": 2,
+    "min_storage_gb": 20.0,
+    "arch": "x86_64"
+  }
+]
